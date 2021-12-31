@@ -1,0 +1,5 @@
+classes  = 1 
+train  = C:/Users/APO/Desktop/YOLO/yolov4/custom yolo model/darknet/darknet/spot_data/spot_training.txt
+valid  = C:/Users/APO/Desktop/YOLO/yolov4/custom yolo model/darknet/darknet/spot_data/spot_testing.txt
+names  = C:/Users/APO/Desktop/YOLO/yolov4/custom yolo model/darknet/darknet/spot_data/spot.names
+backup = backup 
